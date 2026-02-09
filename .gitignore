@@ -1,0 +1,18 @@
+# Arquivos do sistema
+.DS_Store
+*.DS_Store
+
+# Configuração com chaves secretas
+config.js
+
+# Node modules (se houver)
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
